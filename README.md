@@ -66,7 +66,3 @@ A simple job scraping tool that allows users to search for job openings based on
   - Filtering (e.g. remote only, salary range)
 
 ---
-
-## 💡 Future Improvements
-
-- Add a graphical

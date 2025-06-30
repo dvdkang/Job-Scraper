@@ -54,8 +54,7 @@ A simple job scraping tool that allows users to search for job openings based on
 
 ---
 
-![Screenshot](<img width="1278" alt="jobscrape" src="https://github.com/user-attachments/assets/ed9a3490-f440-4b0b-bc2b-dae27ddfe51e" />
-)
+
 
 ## 📌 Notes
 

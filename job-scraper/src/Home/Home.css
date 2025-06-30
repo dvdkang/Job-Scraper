@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+  background-color: aliceblue;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.input {
+  height: 40px;
+  border-color: gray;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.select {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* .search-button {
+} */

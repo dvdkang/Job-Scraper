@@ -1,0 +1,33 @@
+.results-container {
+  background-color: aliceblue;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.header {
+  text-align: center;
+  font-size: 40px;
+}
+
+.job-title {
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+
+.company {
+  font-size: 18px;
+}
+
+.job-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 3px 80px;
+  background-color: #fff;
+}
+
+.job-card:hover {
+  border-color: #007bff; /* Highlight on hover */
+  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.2);
+  transition: all 0.2s ease;
+}
